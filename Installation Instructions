@@ -28,9 +28,9 @@ This guide will help you set up your environment to run the code provided for th
 
 ## Step 4: Run the Workshop Code
 1. **Upload Code**:
-   - Copy the provided Python code (e.g., `smiley_face.py`) to your Pico.
-   - Save it as `main.py` if you want the code to run automatically on boot.
+   - Copy the provided Python code for the 😊 face (`happy_face.py`) and 😞 face (`sad_face.py`) to your Pico.
+   - Save one of the files as `main.py` if you want it to run automatically on boot.
 
 2. **Run the Code**:
-   - Run the code in Thonny or reset the Pico to see the pattern displayed on your NeoPixel matrix.
+   - Run the code in Thonny or reset the Pico to see the selected pattern displayed on your NeoPixel matrix.
 
