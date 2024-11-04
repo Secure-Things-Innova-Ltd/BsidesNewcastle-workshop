@@ -4,7 +4,7 @@ This repository contains the code and resources from the **“Intro to Electroni
 
 ## Contents
 - **Installation Instructions**: Step-by-step guide to set up MicroPython on the Raspberry Pi Pico.
-- **Code Examples**: Scripts for displaying a happy face on an 8x8 NeoPixel matrix.
+- **neopixel_patterns and Code Examples**: Scripts for displaying a happy face on an 8x8 NeoPixel matrix.
 - **Additional Resources**: Helpful links and documentation for further exploration.
 
 ## Getting Started
